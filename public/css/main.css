@@ -1,0 +1,13 @@
+body {
+    background-image: url("/images/salonicarockcity.png") !important;
+    background-repeat: repeat;
+    background-size: 20%;
+}
+.pagination-section {
+    position: absolute;
+    bottom: 0%;
+}
+.wallpaper-card,
+.wallpaper-image {
+    padding: 0px !important;
+}
