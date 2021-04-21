@@ -66,5 +66,5 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 Wallpaper and audio project with Laravel 8
 
 ## Admin panel
-![Screenshot](ADMIN1.png)
+![Screenshot](images/ADMIN1.png)
 
