@@ -68,3 +68,11 @@ Wallpaper and audio project with Laravel 8
 ## Admin panel
 ![Screenshot](images/ADMIN1.png)
 
+![Screenshot](images/ADMIN2.png)
+
+![Screenshot](images/ADMIN3.png)
+
+![Screenshot](images/ADMIN4.png)
+
+
+
